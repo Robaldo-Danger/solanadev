@@ -1,0 +1,11 @@
+{
+  "name": "ATOM",
+  "symbol": "ATOM",
+  "description": "Split me.",
+  "image": "https://raw.githubusercontent.com/Robaldo-Danger/solanadev/af345c6c2facbdced0a8a34138cb099a0ba86fb4/atom.png",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
